@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </div>
 <br>
 <div align="center">
-  <img src="https://img.shields.io/badge/anhvuk13@gmail.com-white.svg?style=flat-square&logo=gmail" alt=""></a>
+  <a href="mailto:anhvuk13@gmail.com"><img src="https://img.shields.io/badge/anhvuk13@gmail.com-white.svg?style=flat-square&logo=gmail" alt=""></a>
   <a href="https://linkedin.com/in/anhvuk13" target="_blank"><img src="https://img.shields.io/badge/in%2Fanhvuk13-blue.svg?style=flat-square&logo=linkedin" alt=""></a>
   <a href="https://fb.com/anhvuk13" target="_blank"><img src="https://img.shields.io/badge/anhvuk13-white.svg?style=flat-square&logo=facebook" alt=""></a>
 </div>
